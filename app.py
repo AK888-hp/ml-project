@@ -1,6 +1,5 @@
 from fastapi import FastAPI,Request
 from fastapi.middleware.cors import CORSMiddleware
-from flask import render_template
 from fastapi.templating import Jinja2Templates
 from src.pipeline.predict_pipeline import CustomData,PredictPipeline
 
