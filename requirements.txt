@@ -8,3 +8,4 @@ fastapi
 uvicorn[standard]
 gunicorn
 python-multipart
+jinja2
