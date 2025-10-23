@@ -1,9 +1,10 @@
-pandas 
+pandas
 numpy
-seaborn
 scikit-learn
-matplotlib
 catboost
 xgboost
 dill
-#-e.
+fastapi
+uvicorn[standard]
+gunicorn
+python-multipart
